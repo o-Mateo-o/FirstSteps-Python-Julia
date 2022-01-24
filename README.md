@@ -9,7 +9,7 @@ Mateusz Machaj
 - summer 2021 (programowanie2, pakiety_matematyczne)
 ## Info:
 This repo is created to show **the progress of learnig** [1]. It contains minor tasks done for academic courses at the Faculty of Pure and Applied Mathematics, Wrocław University of Science and Technology.
-Year 2020/21 was my first year with intensive programming, although I had some expirience with *Java* and *C++* before.
+Year 2020/21 was my first year of intensive programming, although I had some expirience with *Java* and *C++* before.
 
 Majority of them is done correctly, so they can be treated as a prompt when working on the same exercises.
 
