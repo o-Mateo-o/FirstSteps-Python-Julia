@@ -1,4 +1,4 @@
-# MINOR TASKS FOR ACADEMIC COURSES 2020/21
+# Minor tasks for the academic courses 2020/21 - First steps in Python and Julia programming
 ## Author: 
 Mateusz Machaj
 ## Languages:
